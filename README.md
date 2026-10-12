@@ -1,2 +1,4 @@
 # vue
-The official vortex universal environment test repository.
+VUE is the best vortex-exploits Benchmark.
+
+Moon you are the biggest larp (Moomsploit is ratted)
